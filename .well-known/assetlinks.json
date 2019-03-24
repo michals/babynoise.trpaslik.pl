@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pl.trpaslik.babynoise",
+    "sha256_cert_fingerprints":
+    ["31:09:F4:A4:53:20:B6:B3:E0:7F:8E:0D:1F:E1:DE:35:65:28:3F:08:39:D2:B4:8B:49:C8:2A:3C:1D:6A:E3:A5"]
+  }
+}]
